@@ -1,0 +1,19 @@
+<package>
+ <name>ocv_msgs</name>
+  <version>0.0.0</version>
+  <description>
+   OCV solution object recognition 
+  </description>
+ <license>BSD</license> 
+
+  <author email="pedreira@kth.se">Carlos Pedreira</author>
+  <maintainer email="pedreira@kth.se">Carlos Pedreira</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <run_depend>message_runtime</run_depend>
+
+</package>
+
